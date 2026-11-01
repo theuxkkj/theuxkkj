@@ -19,16 +19,6 @@ Estudante de Engenharia Elétrica | Desenvolvimento em Python | Projetos & Infra
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
 
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=theuxkkj&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theuxkkj&layout=compact&theme=dark"/>
-</p>
-
----
 
 ### 🔗 Onde me encontrar
 
